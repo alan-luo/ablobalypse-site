@@ -8,7 +8,7 @@ This post marks the 10-week milestone of this project. By this point I have comp
 
 **Deliverables:**
 
-- Working [final game](https://www.youtube.com/watch?v=mimLL4UL4bE)
+- Working [final game](https://www.youtube.com/watch?v=iWRPtDELIrs)
 	- Main menu + one game level
 		- Pausing / unpausing
 		- Track high scores

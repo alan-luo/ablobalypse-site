@@ -10,8 +10,6 @@ This is the current state of development as of September 11, 2017. This is being
 
 I have pretty much the entire design thought out, from aesthetic to gameplay. Of course, many of the subtle details are vulnerable to change - but the vision is there. I'm going to post some concept art soon.
 
---READMORE--
-
 The basic physics and mechanics have been established in Unity. I've create a state engine to manage my jump physics, which now feel clean and responsive. I've also created basic entities for the player, enemies, and bullets. I've added also added a shiny cool paint splatter effect.
 
 Unfortunately, that paint splatter effect is causing some problems. Functionally, it works just fine, but processing the texture seems very slow in Unity. Based on some reading, I think it's an issue I can't resolve.
